@@ -12,7 +12,7 @@ LncLOOM has been implemented in Python 2 and Python 3 and is supported on Linux/
 
      * Download: `git clone https://github.com/lncLOOM/LncLOOMv1.git`
      
-     * [How to install and run LncLOOMv1.0](https://github.com/lncLOOM/lncLOOM/blob/master/README.md)
+     * [How to install and run LncLOOMv1.0](https://github.com/lncLOOM/LncLOOMv1/blob/master/README.md)
 
 * [LncLOOMv2.0](https://github.com/lncLOOM/LncLOOMv2) implemented in Python 3
 
