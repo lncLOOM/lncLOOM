@@ -5,7 +5,7 @@ Developed and maintained by [Caroline Ross](mailto:caroline-jane.ross@weizmann.a
 
 ## About lncLOOM
 lncLOOM is a graph-based framework that uses integer linear programming to identify combinations of short motifs that are 
-deeply conserved in rapidly evolving sequences. The integer programming problems are solved using [PuLP](https://pypi.org/project/PuLP/), and supports the [Gurobi] solver(https://www.gurobi.com/)   
+deeply conserved in rapidly evolving sequences. The integer programming problems are solved using [PuLP](https://pypi.org/project/PuLP/), and supports the [Gurobi solver](https://www.gurobi.com/)   
 
 LncLOOM has been implemented in Python 2 and Python 3 and is supported on Linux/Unix-based systems:
 * [LncLOOMv1.0](https://github.com/lncLOOM/LncLOOMv1) implemented in Python 2
