@@ -23,7 +23,7 @@ LncLOOM has been implemented in Python 2 and Python 3 and is supported on Linux/
 
 ## Motifs discovered using LncLOOM
 
-1) [Chaserr](https://github.com/lncLOOM/LncLOOMv1/tree/master/Chaserr_Results)
+1) [CHASERR](https://github.com/lncLOOM/LncLOOMv1/tree/master/Chaserr_Results)
 
 2) [MALAT1](https://github.com/lncLOOM/LncLOOMv1/tree/master/MALAT1_Results)
 
