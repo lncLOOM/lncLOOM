@@ -31,3 +31,16 @@ E(i): Probability of finding any combination of the same number of motifs of the
 P(r): Probability of finding the exact motif, at the same depth, in a random set of sequences that have the dinucleotide composition as the input sequences
 
 E(r): Probability of finding any combination of the same number of motifs of the same length, or longer, at the same depth, in a random set of sequences that have the same dinucleotide composition as the input sequences
+
+## Motifs discovered using LncLOOM
+
+1) [Chaserr](https://github.com/lncLOOM/LncLOOMv1/tree/master/Chaserr_Results)
+
+2) [MALAT1](https://github.com/lncLOOM/LncLOOMv1/tree/master/MALAT1_Results)
+
+3) [NORAD](https://github.com/lncLOOM/LncLOOMv1/tree/master/NORAD_Resuts)
+
+4) [XIST](https://github.com/lncLOOM/LncLOOMv1/tree/master/XIST_Results)
+
+5) [miRNA binding sites predicted by LncLOOM](https://github.com/lncLOOM/LncLOOMv1/tree/master/miRNA_LncLOOM_Targets) 
+
