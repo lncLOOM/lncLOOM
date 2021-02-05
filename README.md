@@ -20,17 +20,6 @@ LncLOOM has been implemented in Python 2 and Python 3 and is supported on Linux/
      
      * [How to install and run LncLOOMv2.0](https://github.com/lncLOOM/LncLOOMv2/blob/main/README.md)
 
-## Defintions of Statistical values
-
-Definitions and troubleshooting tips for calculating motif significance are also given in [Definitions.html](https://github.com/lncLOOM/lncLOOM/edit/master/Definitions.html):
-
-P(i): Probability of finding the exact motif, at the same depth, in a random set of sequences that have the same percentage identities as the input sequences
-
-E(i): Probability of finding any combination of the same number of motifs of the same length, or longer, at the same depth, in a random set of sequences that have the same percentage identities as the input sequences
-
-P(r): Probability of finding the exact motif, at the same depth, in a random set of sequences that have the dinucleotide composition as the input sequences
-
-E(r): Probability of finding any combination of the same number of motifs of the same length, or longer, at the same depth, in a random set of sequences that have the same dinucleotide composition as the input sequences
 
 ## Motifs discovered using LncLOOM
 
@@ -44,3 +33,7 @@ E(r): Probability of finding any combination of the same number of motifs of the
 
 5) [miRNA binding sites predicted by LncLOOM](https://github.com/lncLOOM/LncLOOMv1/tree/master/miRNA_LncLOOM_Targets) 
 
+
+## Defintions of Statistical values
+
+Definitions and troubleshooting tips for calculating motif significance can be found in [Definitions.html](https://github.com/lncLOOM/lncLOOM/edit/master/Definitions.html):
